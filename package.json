@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@tensorflow-models/knn-classifier": "^1.0.0",
+    "@tensorflow-models/mobilenet": "^1.0.0",
+    "@tensorflow/tfjs": "^1.0.4",
+    "axios": "^0.18.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8"
@@ -14,7 +18,7 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": "air-bnb"
   },
   "browserslist": [
     ">0.2%",
