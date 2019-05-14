@@ -8,13 +8,17 @@
     "@tensorflow/tfjs": "^1.0.4",
     "axios": "^0.18.0",
     "eslint-config-airbnb": "^17.1.0",
+    "history": "^4.9.0",
     "husky": "^2.2.0",
     "lint-staged": "^8.1.6",
     "prettier": "^1.17.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-router-redux": "^4.0.8",
     "react-scripts": "2.1.8",
-    "react-webcam": "^1.1.1"
+    "react-webcam": "^1.1.1",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6"
   },
   "lint-staged": {
     "src/**/*.{js,jsx,json,scss,css}": [
